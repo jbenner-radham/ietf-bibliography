@@ -4,3 +4,13 @@
 > </a>
 
 A BibTeX collection of various RFCs and drafts from the IETF.
+
+## Drafts
+
+- Recommendations of a committee on RFC citation issues
+
+## RFCs
+
+- Hypertext Transfer Protocol -- HTTP/1.1
+- vCard Format Specification
+- RFC Style Guide
