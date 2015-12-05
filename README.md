@@ -1,9 +1,7 @@
 # IETF Bibliography
-> <a rel="license" href="http://creativecommons.org/publicdomain/zero/1.0/">
->   <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" alt="CC0">
-> </a>
+> A BibTeX collection of various RFCs and drafts from the IETF.
 
-A BibTeX collection of various RFCs and drafts from the IETF.
+[![License][img-license]](LICENSE.md)
 
 ## Drafts
 
@@ -14,3 +12,5 @@ A BibTeX collection of various RFCs and drafts from the IETF.
 - Hypertext Transfer Protocol -- HTTP/1.1
 - vCard Format Specification
 - RFC Style Guide
+
+[img-license]: https://img.shields.io/github/license/jbenner-radham/ietf-bibliography.svg
